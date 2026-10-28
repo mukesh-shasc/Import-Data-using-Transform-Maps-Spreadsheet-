@@ -21,9 +21,10 @@ The project simulates an enterprise real-world scenario where bulk employee reco
 ## 👥 Team Roster
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
-| **Moorthy R** | Team Lead | Architecture Design, Transform Map Configuration & Governance |
-| **Priyan N** | Team Member | ServiceNow Table Definition, Data Import Staging & Testing |
-| **KATHIRAVAN M** | Team Member | Reports Generation, Dashboard Integration & Documentation |
+| **Mukesh S** | Team Lead | Architecture Design, Transform Map Configuration & Governance |
+| **VISHWA N** | Team Member | ServiceNow Table Definition, Data Import Staging & Testing |
+| **BALA KUMARAN G** | Team Member | Reports Generation, Dashboard Integration & Documentation |
+|**PRAVEEN KAN V** | Team Member | Reports Generation, Dashboard Integration & Documentation |
 
 ---
 
