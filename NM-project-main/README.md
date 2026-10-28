@@ -3,9 +3,10 @@
 **Project Title:** Import Data using Transform Maps (Spreadsheet)  
 **Platform:** ServiceNow (Global Scope)  
 **Team Members:**  
-- **Moorthy R** (Team Lead)  
-- **Priyan N** (Member)  
-- **KATHIRAVAN M** (Member)  
+- **Mukesh S** (Team Lead)  
+- **Vishwa N** (Member)  
+- **Bala kumaran G** (Member)
+- **Praveen kan V** (Member)  
 **Date:** October 2026  
 **Project Location:** `C:\Users\priya\.gemini\antigravity\scratch\ServiceNow_Import_Data_using_Transform_Maps`
 
@@ -21,7 +22,7 @@ The project simulates an enterprise real-world scenario where bulk employee reco
 ## 👥 Team Roster
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
-| **Mukesh S** | Team Lead | Architecture Design, Transform Map Configuration & Governance |
+| **Mukesh S** | Team Leader | Architecture Design, Transform Map Configuration & Governance |
 | **VISHWA N** | Team Member | ServiceNow Table Definition, Data Import Staging & Testing |
 | **BALA KUMARAN G** | Team Member | Reports Generation, Dashboard Integration & Documentation |
 |**PRAVEEN KAN V** | Team Member | Reports Generation, Dashboard Integration & Documentation |
